@@ -25,6 +25,7 @@ Se você é um fã de vilões e quer adicionar mais maldades à nossa coleção,
 
 **#vilões #busca #javascript #html #css #desenvolvedora #alura #google** 
 
+**Link para entrar em contato:** https://www.linkedin.com/in/kimberly-martins-61081a113/
 **Link para o repositório:** https://github.com/KimberlyMartins/buscador-de-viloes
 
  ![art](https://github.com/user-attachments/assets/1e85b38a-46a9-40d7-90ff-4e41f4691a26)
